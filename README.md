@@ -1,20 +1,20 @@
 <h1 align="center">
-	🚀 MiniShell
+	🚀 Minishell
 </h1>
 
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/LeonMoreno/minishell?color=lightblue" />
-	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/LeonMoreno/minishell?color=critical" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/LeonMoreno/minishell?color=yellow" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/LeonMoreno/minishell?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LeonMoreno/minishell?color=green" />
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/JBVer/Minishell?color=lightblue" />
+	<img alt="Number of lines of code" src="https://tokei.rs/b1/github/JBVer/Minishell?category=code" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/JBVer/Minishell?color=yellow" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/JBVer/Minishell?color=blue" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JBVer/Minishell?color=green" />
 </p>
 
 ## 💡 About the project
 
-🚀 Minishell was a collaborative effort at School 42 in Paris. In this project, we aimed to create a simple shell, which provided us with valuable hands-on experience in processes and file descriptors. Our task involved building a fully functional shell with features such as prompt display, command history, redirections, and pipes. We also learned how to interpret environment variables and implement built-in commands.
+🛠️ 2 Team Members 
 
-🛠️ Team of 2 members 
+🚀 Minishell was a collaborative effort at School 42 in Paris. In this project, we aimed to create a simple shell, which provided us with valuable hands-on experience in processes and file descriptors. Our task involved building a fully functional shell with features such as prompt display, command history, redirections, and pipes. We also learned how to interpret environment variables and implement built-in commands.
 
 ## Skills:
 * Rigor
