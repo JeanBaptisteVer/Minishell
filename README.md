@@ -12,7 +12,7 @@
 
 ## 💡 About the project
 
-🚀 Minishell is the fruit of a collaboration between two students at Ecole 42 in Paris. In this project, we aimed to create a simple shell, which provided us with valuable hands-on experience in processes and file descriptors. Our task involved building a fully functional shell with features such as prompt display, command history, redirections, and pipes. We also learned how to interpret environment variables and implement built-in commands.
+* Minishell is the fruit of a collaboration between two students at Ecole 42 in Paris. In this project, we aimed to create a simple shell, which provided us with valuable hands-on experience in processes and file descriptors. Our task involved building a fully functional shell with features such as prompt display, command history, redirections, and pipes. We also learned how to interpret environment variables and implement built-in commands.
 
 ## 🔦 Skills
 * Rigor
