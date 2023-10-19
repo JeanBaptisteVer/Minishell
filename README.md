@@ -12,9 +12,7 @@
 
 ## 💡 About the project
 
-🛠️ 2 Team Members 
-
-🚀 Minishell was a collaborative effort at School 42 in Paris. In this project, we aimed to create a simple shell, which provided us with valuable hands-on experience in processes and file descriptors. Our task involved building a fully functional shell with features such as prompt display, command history, redirections, and pipes. We also learned how to interpret environment variables and implement built-in commands.
+🚀 Minishell is the fruit of a collaboration between two students at Ecole 42 in Paris. In this project, we aimed to create a simple shell, which provided us with valuable hands-on experience in processes and file descriptors. Our task involved building a fully functional shell with features such as prompt display, command history, redirections, and pipes. We also learned how to interpret environment variables and implement built-in commands.
 
 ## Skills:
 * Rigor
@@ -22,9 +20,6 @@
 * Imperative programming
 
 ## Built-ins Implemented
-
-In our Minishell project, we've successfully implemented the following built-in commands:
-
 - `echo`: Supports the `-n` option.
 - `cd`: Allows for changing the current working directory using relative or absolute paths.
 - `pwd`: Displays the current working directory.
