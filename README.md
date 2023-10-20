@@ -11,7 +11,7 @@
 </p>
 
 ## 💡 About the project
-* Minishell is the fruit of a collaboration between two students at the School 42. In this project, we aimed to create a simple shell, which provided us with valuable hands-on experience in processes and file descriptors. Our task involved building a fully functional shell with features such as prompt display, command history, redirections, and pipes. We also learned how to interpret environment variables and implement built-in commands.
+* Minishell is a collaborative effort by two School 42 students, aimed to create a Unix shell mirroring bash's behavior. The project provided hands-on experience in processes, file descriptors, redirections, pipes, environment variable interpretation, and built-in command implementation.
 
 ## Built-ins Implemented
 * `echo`: Supports the `-n` option.
@@ -23,7 +23,6 @@
 * `exit`: Exits the shell without any options.
 
 ## Features
-
 - ``CTRL-C``
 - ``CTRL-\``
 - ``CTRL-D``
