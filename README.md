@@ -38,7 +38,7 @@
 ## ⚙️ Usage
 
 ```shell
-# Within Project dir; Compile
+# Within the Project dir; Compile
 make
 
 # Launch the shell
