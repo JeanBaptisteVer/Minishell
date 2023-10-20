@@ -27,7 +27,7 @@
 * `env`: Displays the environment variables or arguments.
 * `exit`: Exits the shell without any options.
 
-## Features
+## 📝 Features
 
 - ``CTRL-C``
 - ``CTRL-\``
@@ -40,10 +40,10 @@
 - local variable
 - env expansions + ``$?``
 
-## Usage
+## ⚙️ Usage
 
 ```shell
-# Compile
+# Within Project dir; Compile
 make
 
 # Launch the shell
