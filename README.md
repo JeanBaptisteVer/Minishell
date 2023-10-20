@@ -26,3 +26,26 @@
 * `unset`: Removes environment variables without any options.
 * `env`: Displays the environment variables or arguments.
 * `exit`: Exits the shell without any options.
+
+## Features
+
+- ``CTRL-C``
+- ``CTRL-\``
+- ``CTRL-D``
+- ``|`` pipes
+- ``;`` semicolons
+- ``>`` ``>>`` ``<`` ``<<`` redirections
+- ``&&`` ``||`` operators
+- ``*`` wildcard
+- local variable
+- env expansions + ``$?``
+
+## Usage
+
+```shell
+# Compile
+make
+
+# Launch the shell
+./minishell
+```
