@@ -11,7 +11,7 @@
 ## 💡 About the project
 * This project aimed to create a Unix shell mirroring bash's behavior.
 
-## Built-ins Implemented
+## Built-ins implemented
 * `echo`: Supports the `-n` option.
 * `cd`: Allows for changing the current working directory using relative or absolute paths.
 * `pwd`: Displays the current working directory.
