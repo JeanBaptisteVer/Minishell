@@ -4,14 +4,12 @@
 
 <p align="center">
 	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/JBVer/Minishell?color=lightblue" />
-	<img alt="Number of lines of code" src="https://tokei.rs/b1/github/JBVer/Minishell?category=code" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/JBVer/Minishell?color=yellow" />
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/JBVer/Minishell?color=blue" />
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JBVer/Minishell?color=green" />
 </p>
 
 ## 💡 About the project
-* Minishell is a collaborative effort by two School 42 students, aimed to create a Unix shell mirroring bash's behavior. The project provided hands-on experience in processes, file descriptors, redirections, pipes, environment variable interpretation, and built-in command implementation.
+* This project aimed to create a Unix shell mirroring bash's behavior.
 
 ## Built-ins Implemented
 * `echo`: Supports the `-n` option.
@@ -43,3 +41,7 @@ make
 # Launch the shell
 ./minishell
 ```
+
+## Authors
+- Niels Schmitt
+- Jean-Baptiste Vermeersch
